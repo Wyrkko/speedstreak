@@ -1,0 +1,10 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "speedstreak:item/speed_bottle",
+    "tints": [
+      { "type": "minecraft:constant", "value": 3402751 },
+      { "type": "minecraft:constant", "value": -1 }
+    ]
+  }
+}
